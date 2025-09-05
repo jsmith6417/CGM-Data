@@ -21,3 +21,7 @@ The program:
 ## Visualizations  
 Explore the interactive Tableau dashboards here:  
 [Tableau Public – CGM Data](https://public.tableau.com/views/CGMData/ContinuousGlucoseMonitorCGMData?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+## Related Series  
+**Working with CGM Data: Python, SQLite, and Tableau in a 4-Part Series**  
+[Read the series here](https://jcsanalytics.com/index.php/working-with-cgm-data-python-sqlite-and-tableau-in-a-4-part-series)  
