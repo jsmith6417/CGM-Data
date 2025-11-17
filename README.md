@@ -12,7 +12,7 @@ The program:
 - **Create Database SQL Magic.ipynb**  
   Jupyter Notebook for creating an SQLite database, adding a table, and inserting records.  
 
-- **Dexcom Clarity Readings SQLite SQL Magic v2.ipynb**  
+- **Dexcom Clarity Readings v3.ipynb**  
   Python code that locates the newest data file in the downloads folder, processes it, and updates the SQLite database. Manual file handling is no longer required.  
 
 - **Guide to Continuous Glucose Monitor Visualizations.pdf**  
