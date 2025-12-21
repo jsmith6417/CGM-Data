@@ -24,12 +24,12 @@ Explore the interactive Tableau dashboards here:
 
 ## Related Series  
 **Working with CGM Data: Python, SQLite, and Tableau in a 4-Part Series**  
-[Read the series here]([https://jcsanalytics.com/index.php/working-with-cgm-data-python-sqlite-and-tableau-in-a-4-part-series](https://jcsanalytics.com/index.php?view=article&id=40:working-with-cgm-data-python-sqlite-and-tableau-in-a-4-part-series))  
+[Read the series here](https://jcsanalytics.com/index.php?view=article&id=40:working-with-cgm-data-python-sqlite-and-tableau-in-a-4-part-series)
 
 ## Project-Specific Extensions: Hourly Analysis
 **Guide to TIR and CV Visualizations (PDF)**  
 This guide documents project-specific hourly visualizations that extend standard CGM reporting. It explains why daily summaries can obscure timing-related patterns and how hour-by-hour Time in Range and Coefficient of Variation views reveal consistent structure when multiple days are examined together. These visualizations are exploratory and are not part of standardized CGM reporting.  
-[Explore the Example Hourly Time in Range Example Visualizations at Tableau Public](https://public.tableau.com/views/ExampleTIRVisualizations/ExampleTimeinRangeandCoefficientofVariationCVVisualizations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Explore the Example Hourly Time in Range Example Visualizations at Tableau Public](https://jcsanalytics.com/index.php?view=article&id=40:working-with-cgm-data-python-sqlite-and-tableau-in-a-4-part-series)
 
 For more on the patient-centered side of this approach:  
 [How an Hour-by-Hour View Transforms Time in Range Insights](https://jcst2d.com/index.php/articles/how-an-hour-by-hour-view-transforms-time-in-range-insights)
