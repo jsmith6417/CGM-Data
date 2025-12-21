@@ -24,7 +24,7 @@ Explore the interactive Tableau dashboards here:
 
 ## Related Series  
 **Working with CGM Data: Python, SQLite, and Tableau in a 4-Part Series**  
-[Read the series here](https://jcsanalytics.com/index.php/working-with-cgm-data-python-sqlite-and-tableau-in-a-4-part-series)  
+[Read the series here]([https://jcsanalytics.com/index.php/working-with-cgm-data-python-sqlite-and-tableau-in-a-4-part-series](https://jcsanalytics.com/index.php?view=article&id=40:working-with-cgm-data-python-sqlite-and-tableau-in-a-4-part-series))  
 
 ## Project-Specific Extensions: Hourly Analysis
 **Guide to TIR and CV Visualizations (PDF)**  
