@@ -37,3 +37,11 @@ For more on the patient-centered side of this approach:
 ## Time in Range and Variation by Hour Presentation
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22309732.svg)](https://doi.org/10.5281/zenodo.22309732)
+
+## License
+
+Source code in this repository is licensed under the MIT License.
+
+Visualization guides and other documentation in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+The Time in Range and Variation by Hour presentation is also licensed under CC BY 4.0.
