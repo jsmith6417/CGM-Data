@@ -1,10 +1,17 @@
-```bibtex
-@misc{smith_2026_22309733,
-  author       = {Smith, Jeffrey},
-  title        = {Time in Range and Variation by Hour},
-  month        = sep,
-  year         = 2026,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22309732},
-  url          = {https://doi.org/10.5281/zenodo.22309732},
-}
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Smith"
+    given-names: "Jeffrey"
+    orcid: "https://orcid.org/0009-0000-5489-7050"
+title: "Time in Range and Variation by Hour"
+version: 1.0.0
+doi: 10.5281/zenodo.22309733
+date-released: 2026-09-05
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22309733
+    description: "Zenodo archive record"
+url: "https://doi.org/10.5281/zenodo.22309733"
+repository-code: "https://github.com/jsmith6417/CGM-Data"
+license: CC-BY-4.0
