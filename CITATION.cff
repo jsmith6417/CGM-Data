@@ -1,1 +1,10 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22309732.svg)](https://doi.org/10.5281/zenodo.22309732)
+```bibtex
+@misc{smith_2026_22309733,
+  author       = {Smith, Jeffrey},
+  title        = {Time in Range and Variation by Hour},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22309732},
+  url          = {https://doi.org/10.5281/zenodo.22309732},
+}
