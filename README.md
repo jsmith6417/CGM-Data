@@ -33,3 +33,7 @@ This guide documents project-specific hourly visualizations that extend standard
 
 For more on the patient-centered side of this approach:  
 [How an Hour-by-Hour View Transforms Time in Range Insights](https://jcst2d.com/index.php/articles/how-an-hour-by-hour-view-transforms-time-in-range-insights)
+
+## Time in Range and Variation by Hour Presentation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22309732.svg)](https://doi.org/10.5281/zenodo.22309732)
