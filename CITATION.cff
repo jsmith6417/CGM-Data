@@ -6,12 +6,12 @@ authors:
     orcid: "https://orcid.org/0009-0000-5489-7050"
 title: "Time in Range and Variation by Hour"
 version: 1.0.0
-doi: 10.5281/zenodo.22309733
+doi: 10.5281/zenodo.22309732
 date-released: 2026-09-05
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.22309733
+    value: 10.5281/zenodo.22309732
     description: "Zenodo archive record"
-url: "https://doi.org/10.5281/zenodo.22309733"
+url: "https://doi.org/10.5281/zenodo.22309732"
 repository-code: "https://github.com/jsmith6417/CGM-Data"
 license: CC-BY-4.0
