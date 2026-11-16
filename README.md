@@ -38,6 +38,12 @@ For more on the patient-centered side of this approach:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22309732.svg)](https://doi.org/10.5281/zenodo.22309732)
 
+## Feedback
+
+If you try one of the notebooks, I’d like to hear how it went. A quick note about which example you used and what worked, where you got stuck, or what you’d like to see next is welcome.
+
+Please share your feedback in [GitHub Issues](https://github.com/jsmith6417/CGM-Data/issues). If you’re reporting an error, include the notebook name and the error message with any personal details removed. Issues are public, so please use simulated data if an example would help.
+
 ## License
 
 Source code in this repository is licensed under the MIT License.
