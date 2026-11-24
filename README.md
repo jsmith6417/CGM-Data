@@ -51,3 +51,11 @@ Source code in this repository is licensed under the MIT License.
 Visualization guides and other documentation in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 The Time in Range and Variation by Hour presentation is also licensed under CC BY 4.0.
+
+## Python Version Compatibility
+
+This program has been updated and tested using Python 3.15. It incorporates explicit lazy imports (lazy import and lazy from), introduced in Python 3.15.
+
+If you are using Python 3.14 or earlier, remove the lazy keyword from the import statements before running the program.
+
+This restores the standard import behavior used in earlier versions of Python.
