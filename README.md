@@ -16,7 +16,90 @@ The program:
   Python code that locates the newest data file in the downloads folder, processes it, and updates the SQLite database. Manual file handling is no longer required.  
 
 - **Guide to Continuous Glucose Monitor Visualizations.pdf**  
-  A reference guide describing the visualization styles, analytical approaches, and commonly used CGM measures.  
+  A reference guide describing the visualization styles, analytical approaches, and commonly used CGM measures.
+
+## Working with SQL in Jupyter Notebooks
+
+This project uses JupySQL, an IPython extension that enables
+SQL commands to be executed directly within Jupyter notebooks
+using SQL Magic. Query results are automatically displayed
+in a formatted table without requiring additional Python
+code to retrieve and display them.
+
+### Installing JupySQL
+
+Install JupySQL using pip:
+
+```bash
+pip install jupysql
+```
+
+Alternatively, if you use Conda:
+
+```bash
+conda install jupysql -c conda-forge
+```
+
+Installing JupySQL also installs its required core dependencies.
+
+### SQLite Database Support
+
+Python includes built-in support for SQLite through its
+standard `sqlite3` module. JupySQL accesses SQLite through
+SQLAlchemy, requiring no additional database driver.
+
+SQLite provides a lightweight, serverless SQL solution that
+stores data locally without requiring a separate database
+server or service.
+
+To load the SQL Magic extension in a Jupyter notebook:
+
+```python
+%load_ext sql
+```
+
+To connect to an SQLite database:
+
+```python
+%sql sqlite:///file.db
+```
+
+Replace `file.db` with the name and, if necessary, the path
+of your SQLite database file.
+
+### Using SQL Magic
+
+JupySQL provides two methods for executing SQL commands
+within a Jupyter notebook.
+
+#### Line Magic (%sql)
+
+Line magic designates a single line of code as SQL.
+It's useful for short queries and simple SQL commands.
+
+```python
+%sql SELECT COUNT(*) FROM table_name;
+```
+
+#### Cell Magic (%%sql)
+
+Cell magic designates an entire notebook cell as SQL.
+It must appear on the first line of the cell and is
+particularly useful for longer, multiline queries.
+
+```sql
+%%sql
+SELECT COUNT(*) AS RecordCount
+FROM table_name;
+```
+
+Both methods execute SQL commands directly and return
+formatted query results.
+
+### Additional Resources
+
+- [JupySQL on PyPI](https://pypi.org/project/jupysql/)
+- [JupySQL on GitHub](https://github.com/ploomber/jupysql)  
 
 ## Visualizations  
 Explore the interactive Tableau dashboards here:  
